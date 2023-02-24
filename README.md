@@ -1,2 +1,2 @@
-# project-2
+# oibsip_2
 Sales prediction
